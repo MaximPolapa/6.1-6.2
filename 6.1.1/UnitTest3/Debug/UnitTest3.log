@@ -1,0 +1,5 @@
+﻿  UnitTest3.cpp
+C:\Users\n0220\source\repos\6.1\Source.cpp(29,21): warning C4114: same type qualifier used more than once
+C:\Users\n0220\source\repos\6.1\Source.cpp(64,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\n0220\source\repos\6.1\Source.cpp(67,9): warning C4101: 'b': unreferenced local variable
+  UnitTest3.vcxproj -> C:\Users\n0220\source\repos\6.1\Debug\UnitTest3.dll
